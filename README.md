@@ -218,7 +218,8 @@ UK-Healthcare-Security-Policy-Development/
     ├── SEC-POL-005-Breach-Notification.pdf
     └── SEC-POL-006-Acceptable-Use.pdf
 
-## 👤 Author
+
 
 **Saheed Bakare**  
 IT Support Engineer | Cybersecurity Analyst | IAM & Cloud Security Practitioner
+
